@@ -13,3 +13,6 @@
 
 ## References
 [link](https://bit.ly/pragyanone-MSTrE2079-1_1-References)
+
+## Question Sets
+[link](https://github.com/pragyanone/MSTrE2079/tree/main/Year-1%20Part-1/Question%20Sets)
