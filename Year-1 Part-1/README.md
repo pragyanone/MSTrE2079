@@ -1,4 +1,4 @@
-# MSTrE 2079 1_1
+# Year-1 Part-1
 
 ## Instructors
 1. Traffic Engineering: **Anil Marsani**
