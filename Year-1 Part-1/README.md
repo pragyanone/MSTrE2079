@@ -8,11 +8,7 @@
    2. Applied Research Methodology: **Dr. Hikmat Raj Joshi**
 5. Road Construction Material and Technology: **Dr. Gautam Bir Singh Tamrakar**
 
-## Assignments
-[link](https://bit.ly/pragyanone-MSTrE2079-1_1-Assignments)
-
-## References
-[link](https://bit.ly/pragyanone-MSTrE2079-1_1-References)
-
-## Question Sets
-[link](https://github.com/pragyanone/MSTrE2079/tree/main/Year-1%20Part-1/Question%20Sets)
+# Material
+1. [Assignments](https://bit.ly/pragyanone-MSTrE2079-1_1-Assignments)
+2. [References](https://bit.ly/pragyanone-MSTrE2079-1_1-References)
+3. [Question Sets](https://github.com/pragyanone/MSTrE2079/tree/main/Year-1%20Part-1/Question%20Sets)
