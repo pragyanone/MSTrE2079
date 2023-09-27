@@ -10,3 +10,6 @@
 
 ## References
 [link](https://bit.ly/pragyanone-MSTrE2079-1_1-References)
+
+## Assignments
+[link](https://bit.ly/pragyanone-MSTrE2079-1_1-Assignments)
