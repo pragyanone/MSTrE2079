@@ -11,3 +11,4 @@
 
 ## Goto
 1. [Year-1 Part-1](Year-1%20Part-1)
+2. [Year-1 Part-2](Year-1%20Part-2)
