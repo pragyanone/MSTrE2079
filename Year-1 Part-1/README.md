@@ -9,6 +9,6 @@
 5. Road Construction Material and Technology: **Dr. Gautam Bir Singh Tamrakar**
 
 # Material
-1. [Assignments]([https://bit.ly/pragyanone-MSTrE2079-1-Assignments](https://drive.google.com/drive/folders/1STdMWOS62BKT1naUXBIk1KfkC5xm4g6v?usp=sharing))
-2. [References]([https://bit.ly/pragyanone-MSTrE2079-1-References](https://drive.google.com/drive/folders/1VMSlpMmKj9ypfERMeXstWgy3Pgj1zLJ9?usp=sharing))
+1. [Assignments](https://drive.google.com/drive/folders/1STdMWOS62BKT1naUXBIk1KfkC5xm4g6v?usp=sharing)
+2. [References](https://drive.google.com/drive/folders/1VMSlpMmKj9ypfERMeXstWgy3Pgj1zLJ9?usp=sharing)
 3. [Question Sets](https://github.com/pragyanone/MSTrE2079/tree/main/Year-1%20Part-1/Question%20Sets)
