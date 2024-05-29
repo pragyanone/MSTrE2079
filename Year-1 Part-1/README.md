@@ -4,8 +4,8 @@
 1. Traffic Engineering: **Anil Marsani**
 2. Transportation Engineering: **Dr. Pradeep Kumar Shrestha**
 3. Applied Research Methodology and Statistics:
-   1. Statistics: **Dr. Rojee Pradhananga**
-   2. Applied Research Methodology: **Dr. Hikmat Raj Joshi**
+   1. Applied Research Methodology: **Dr. Hikmat Raj Joshi**
+   2. Statistics: **Dr. Rojee Pradhananga**
 5. Road Construction Material and Technology: **Dr. Gautam Bir Singh Tamrakar**
 
 # Material
