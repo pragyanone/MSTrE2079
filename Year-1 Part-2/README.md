@@ -7,7 +7,7 @@
 
 ### Elective subjects
 3. Computer Simulation Applications in Transportation Engineering: **Dr. Pradeep Kumar Shrestha**
-4. Transportation Economics: **Amit Kumar Sharma**
+4. Transport Economics: **Amit Kumar Sharma**
 
 
 # Material
