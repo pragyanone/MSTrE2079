@@ -2,7 +2,7 @@
 
 ## Instructors
 1. Pavement Engineering: **Dr. Padma Bahadur Shahi**
-2. Operations Research in Transportation System: **Dr. Jagat Kumar Shrestha**
+2. Operation Research in Transportation System: **Dr. Jagat Kumar Shrestha**
 3. Application of Computer Simulation in Transportation Engineering: **Dr. Pradeep Kumar Shrestha**
 4. Transportation Economics: **Amit Kumar Sharma**
 
