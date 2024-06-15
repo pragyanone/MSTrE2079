@@ -1,7 +1,6 @@
 # Year-2 Part-1
-https://github.com/pragyanone/MSTrE2079/tree/main
-## Instructors
 
+## Instructors
 ### Elective subjects
 1. Urban Transportation Planning: **Anil Marsani, Dr. Rojee Pradhananga, Dr. Pradeep Kumar Shrestha**
 2. Transport Safety: **Dr. Padma Bahadur Shahi**
