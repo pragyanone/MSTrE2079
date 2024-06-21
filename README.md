@@ -13,3 +13,7 @@
 1. [Year-1 Part-1](Year-1%20Part-1) *(1st semester)*
 2. [Year-1 Part-2](Year-1%20Part-2) *(2nd semester)*
 2. [Year-2 Part-1](Year-2%20Part-1) *(3rd semester)*
+
+## Useful Links
+- [MSTrE Notices Facebook Page](https://www.facebook.com/MSTrEPulchowk)
+- [Download thesis files in bulk](https://github.com/pragyanone/DownloadTUCL)
