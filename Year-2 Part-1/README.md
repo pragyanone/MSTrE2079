@@ -8,5 +8,6 @@
 
 
 # Material
-[Folder](https://drive.google.com/open?id=18EvSB6WVEhIEo0-UF9k_7NM2KO3RyXLi)
-
+- [Folder](https://drive.google.com/open?id=18EvSB6WVEhIEo0-UF9k_7NM2KO3RyXLi)
+- [UT: nptel online course](https://nptel.ac.in/courses/105105208)
+- [TS: YT playlist](https://www.youtube.com/playlist?list=PLPo7n0SktB-fMaV9QFU8UhjPb-NxQO6tV)
