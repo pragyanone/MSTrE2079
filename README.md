@@ -8,6 +8,7 @@
 - Admission in 2079.11
 - First semester exam in 2080.06
 - Second semester exam in 2080.12
+- Third semester exam in 2081.05
 
 ## Goto
 1. [Year-1 Part-1](Year-1%20Part-1) *(1st semester)*
