@@ -2,9 +2,9 @@
 
 ## Instructors
 ### Elective subjects
-1. Urban Transportation Planning: **Anil Marsani, Dr. Rojee Pradhananga, Dr. Pradeep Kumar Shrestha**
+1. Urban Transportation: **Anil Marsani, Dr. Rojee Pradhananga, Dr. Pradeep Kumar Shrestha**
 2. Transport Safety: **Dr. Padma Bahadur Shahi**
-3. Pavement Management System: **Ghanashyam Gautam**
+3. Pavement Management System: **Ghana Shyam Gautam**
 
 
 # Material
